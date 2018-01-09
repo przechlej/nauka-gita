@@ -1,0 +1,1283 @@
+<!doctype html>
+<html lang="pl-PL">
+   <head>
+      <title>TEST</title>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="style.css">
+   </head>
+   <body>
+      <header>
+         <nav class="container">
+         <img src="//placehold.it/150x30" alt="start">
+         <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Pages</a></li>
+            <li><a href="#">Feature</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li>
+         </ul>
+         </nav>
+      </header>
+      <section class="hero">
+         <div class="slogan">
+            <p>HERE YOU CAN TYPE</p>
+            <p><b>YOUR COMPANY</b></p>
+            <p><b>SLOGAN</b></p>
+         </div>
+      </section>
+      <section class="welcome">
+         <div class="container welcome">
+         <div class="row">
+            <div class="col-m-4">
+               <i class="fa fa-camera-retro" aria-hidden="true"></i>
+               <h1>Foto</h1>
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-m-4">
+            <div class="msg">
+               <i class="fa fa-commenting" aria-hidden="true"></i>
+               <h1>MSG</h1>
+               </div>
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-m-4 ">
+               <i class="fa fa-envelope" aria-hidden="true"></i>
+               <h1>Mail</h1>
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-m-6 col-s-6 col-offset-3">
+               <h2> FEATURED WORKS </h2>
+               <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+               </p>
+            </div>
+            </div>
+         </div>
+      </section>
+      <section class="gallery">
+         <nav class="container gal">
+            <div class="row">
+               <div class="col-m-2 col-s-4 example2">
+                              <div class="layer">
+                 			  <div class="icon">
+                 <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i></div>
+               </div>
+                  <img src="http://i.imgur.com/7Ff7rDB.jpg" alt="river">
+                  </div>
+               <div class="col-m-2 col-s-4 example2">
+                              <div class="layer">
+                              <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+               </div>
+               </div>
+                  <img src="https://images.unsplash.com/photo-1472162314594-eca3c3d90df1?auto=format&fit=crop&w=1950&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="man">
+               </div>
+               <div class="col-m-2 col-s-4 example2">
+                              <div class="layer">
+                              <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+               </div>
+               </div>
+                  <img src="https://images.unsplash.com/photo-1499420776634-0e325432e464?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="watch">
+               </div>
+               <div class="col-m-2 col-s-4 example2">
+                              <div class="layer">
+                              <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+                  </div>
+               </div>
+                  <img src="https://images.unsplash.com/photo-1436473849883-bb3464c23e93?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="speaker">
+               </div>
+               <div class="col-m-2 col-s-4 example2">
+                              <div class="layer">
+                              <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+                  </div>
+               </div>
+                  <img src="https://images.unsplash.com/photo-1499120230202-2f3d3b9c8639?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="earphones">
+               </div>
+               <div class="col-m-2 col-s-4 example2">
+                              <div class="layer">
+                              <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+                  </div>
+               </div>
+                  <img src="https://images.unsplash.com/photo-1494858723852-d3cc2477e12c?auto=format&fit=crop&w=1356&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="applewatch">
+               </div>
+            </div>
+            <div class="row">
+            <div class="col-m-4 col-s-4 example2">
+                           <div class="layer">
+                           <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+               </div>
+               </div>
+               <img src="https://images.unsplash.com/photo-1494858723852-d3cc2477e12c?auto=format&fit=crop&w=1356&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="applewatch2">
+            </div>
+            <div class="col-m-2 col-s-4 example2">
+               <div class="layer">
+               <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+               </div>
+               </div>
+               <img src="https://images.unsplash.com/photo-1472162314594-eca3c3d90df1?auto=format&fit=crop&w=1950&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="man2">
+            </div>
+            <div class="col-m-2 col-s-4 example2">
+                           <div class="layer">
+                           <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+                  </div>
+               </div>
+               <img src="https://images.unsplash.com/photo-1499120230202-2f3d3b9c8639?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="earphones2">
+            </div>
+            <div class="col-m-2 col-s-4 example2">
+                           <div class="layer">
+                           <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+                  </div>
+               </div>
+               <img src="https://images.unsplash.com/photo-1436473849883-bb3464c23e93?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="speaker2">
+            </div>
+            <div class="col-m-2 col-s-8 example2">               
+            <div class="layer">
+            <div class="icon"> 
+                  <i class="fa fa-camera-retro fa-lg"></i>
+                  <i class="fa fa-search fa-lg"></i>
+               </div>
+               </div>
+               <img src="https://images.unsplash.com/photo-1499420776634-0e325432e464?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="watch2">
+            </div>
+            </div>
+            </nav>
+      </section>
+      <section class="team">
+         <div class="container teams">
+            <div class="row">
+               <div class="col-m-3 circle">
+               <div class="layer">
+               <div class="names">
+               <p>CEO</p>
+               </div>
+               </div>
+                  <img src="https://i.pinimg.com/736x/dd/21/a5/dd21a5719f50d914faf50c7b01c00a7f--taylor-marie-hill-taylor-hill-face.jpg" alt="face">
+                  <h1>Lorem ipsum</h1>
+               </div>
+               <div class="col-m-3 circle">
+               <div class="layer">
+               <div class="names">
+               <p>CFO</p>
+               </div>
+               </div>
+                  <img src="https://www.tugraz.at/uploads/pics/Alexander_by_Kanizaj_02.jpg" alt="face2">
+                  <h1>Lorem ipsum</h1>
+               </div>
+               <div class="col-m-3 circle">
+               <div class="layer">
+               <div class="names">
+               <p>CSO</p>
+               </div>
+               </div>
+                  <img src="https://www.wykop.pl/cdn/c3201142/comment_qPK59qVtoQzLTeP7VkSiieFmcXsKoxrf.jpg" alt="face3">
+                  <h1>Lorem ipsum</h1>
+               </div>
+               <div class="col-m-3 circle">
+               <div class="layer">
+               <div class="names">
+               <p>CIO</p>
+               </div>
+               </div>
+                  <img src="https://t-eska.cdn.smcloud.net/common/s/T/s/sT23571946cSJ.jpg/ru-0-r-650,0-n-sT23571946cSJ_danielmagical_to_popularny_youtuber_z_czego_jest_znany.jpg" alt="face4">
+                  <h1>Lorem ipsum</h1>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="telephone">
+         <div class="container">
+         <div class="row">
+            <div class="col-m-4 col-s-3 photo">
+               <img src="http://pngimg.com/uploads/iphone/iphone_PNG5735.png" alt="phone">
+            </div>
+               <div class="col-m-8 col-s-9 background-title">
+               <h1> YOUR AWESOME TITLE </h1>
+               <div class="container">
+               <div class="row">
+               <div class="col-m-6 ">
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+               </div>
+               <div class="col-m-6">
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+               </div>
+            </div>
+         </div>
+         </div>
+         </div>
+         </div>
+      </section>
+      <section class="numbers">
+         <div class="container">
+            <div class="row">
+               <div class="col-m-3">
+                  <h1> 455 </h1>
+                  <p>Followers</p>
+               </div>
+               <div class="col-m-3">
+                  <h1> 1991 </h1>
+                  <p> Since </p>
+               </div>
+               <div class="col-m-3">
+                  <h1> 806 </h1>
+                  <p> Happy Clients </p>
+               </div>
+               <div class="col-m-3">
+                  <h1> 923 </h1>
+                  <p> Projects </p>
+               </div>
+            </div>
+         </div>
+</section>
+<footer>
+   <div class="container fot">
+      <div class="row">
+         <div class="col-m-4 social-media">
+            <div class="social-media-header-wrapper">
+               <h1>About Us </h1>
+               <span class="social-media-line"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+         </div>
+         <div class="col-m-4">
+            <div class="social-media-header-wrapper">
+               <h1> Get in touch </h1>
+               <span class="social-media-line"></span>
+            </div>
+            <div class="container">
+               <div class="row">
+                  <div class="col-m-3 col-s-3 street">
+                     <h4><b>Address:</b></h4>
+                     <h4><b>Phone:</b></h4>
+                     <h4><b>E-mail:</b></h4>
+                  </div>
+                  <div class="col-m-9 col-s-9 street">
+                     <h4>Groove Street 66</h4>
+                     <h4>123-123-123</h4>
+                     <h4>Lorem ipsum@ox.com</h4>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-m-4 social-media">
+            <div class="social-media-header-wrapper">
+               <h1> Social Media</h1>
+               <span class="social-media-line"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <div class="button">
+               <button class="icon-btn youtube"><i class="fa fa-youtube"></i>
+               </button>
+               <button class="icon-btn google-plus"><i class="fa fa-google-plus"></i>
+               </button>
+               <button class="icon-btn facebook"><i class="fa fa-facebook"></i>
+               </button>
+               <button class="icon-btn github"><i class="fa fa-github"></i>
+               </button>
+               <button class="icon-btn twitter"><i class="fa fa-twitter"></i>
+               </button>
+               <button class="icon-btn instagram"><i class="fa fa-instagram"></i>
+               </button>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+<section class="copyright">
+   <p>&copy; Copyright 2017</p>
+</section>
+</body>
+</html>
+      
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+* {
+  box-sizing: border-box;
+  margin: auto;
+  font-family: "Open Sans", sans-serif; }
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.row::before, .row::after {
+  content: "";
+  display: table;
+  clear: both; }
+
+[class*="col-"] {
+  width: 100%;
+  padding: 12px;
+  float: left; }
+
+.col-offset-0 {
+  margin-left: 0; }
+
+.col-offset-1 {
+  margin-left: 8.33%; }
+
+.col-offset-2 {
+  margin-left: 16.66%; }
+
+.col-offset-3 {
+  margin-left: 25%; }
+
+.col-offset-4 {
+  margin-left: 33.33%; }
+
+.col-offset-5 {
+  margin-left: 41.66%; }
+
+.col-offset-6 {
+  margin-left: 50%; }
+
+.col-offset-7 {
+  margin-left: 58.33%; }
+
+.col-offset-8 {
+  margin-left: 66.66%; }
+
+.col-offset-9 {
+  margin-left: 75%; }
+
+.col-offset-10 {
+  margin-left: 83.33%; }
+
+.col-offset-11 {
+  margin-left: 91.66%; }
+
+@media (max-width: 767px) {
+  /* For tablets: */
+  .col-s-1 {
+    width: 8.33%; }
+
+  .col-s-2 {
+    width: 16.66%; }
+
+  .col-s-3 {
+    width: 25%; }
+
+  .col-s-4 {
+    width: 33.33%; }
+
+  .col-s-5 {
+    width: 41.66%; }
+
+  .col-s-6 {
+    width: 50%; }
+
+  .col-s-7 {
+    width: 58.33%; }
+
+  .col-s-8 {
+    width: 66.66%; }
+
+  .col-s-9 {
+    width: 75%; }
+
+  .col-s-10 {
+    width: 83.33%; }
+
+  .col-s-11 {
+    width: 91.66%; }
+
+  .col-s-12 {
+    width: 100%; } }
+@media (min-width: 768px) {
+  /* For desktop: */
+  .col-m-1 {
+    width: 8.33%; }
+
+  .col-m-2 {
+    width: 16.66%; }
+
+  .col-m-3 {
+    width: 25%; }
+
+  .col-m-4 {
+    width: 33.33%; }
+
+  .col-m-5 {
+    width: 41.66%; }
+
+  .col-m-6 {
+    width: 50%; }
+
+  .col-m-7 {
+    width: 58.33%; }
+
+  .col-m-8 {
+    width: 66.66%; }
+
+  .col-m-9 {
+    width: 75%; }
+
+  .col-m-10 {
+    width: 83.33%; }
+
+  .col-m-11 {
+    width: 91.66%; }
+
+  .col-m-12 {
+    width: 100%; } }
+header {
+  background: #313234;
+  height: 50px; }
+  header > nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    float: right; }
+
+@media screen and (max-width: 767px) {
+  header {
+    height: auto; } }
+@media screen and (max-width: 767px) {
+  header > nav ul {
+    float: none;
+    display: block;
+    text-align: center; } }
+nav {
+  content: "";
+  display: table;
+  clear: both; }
+
+header > nav ul > li {
+  display: inline-block; }
+  header > nav ul > li > a {
+    color: #fff;
+    line-height: 50px;
+    padding: 0 20px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase; }
+    header > nav ul > li > a:hover {
+      color: #00C1EC; }
+header > nav img {
+  padding: 10px 0; }
+
+@media screen and (max-width: 767px) {
+  header > nav ul > li > a {
+    background: #313234; } }
+@media screen and (max-width: 767px) {
+  header > nav ul > li {
+    display: block; } }
+@media screen and (max-width: 767px) {
+  header > nav img {
+    display: block;
+    text-align: center; } }
+.hero {
+  background-image: url(https://images.unsplash.com/photo-1495564103921-67412af57da3?auto=format&fit=crop&w=700&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  margin-right: 10px; }
+  .hero p {
+    margin-right: 100px;
+    text-align: left;
+    padding: 0 20px;
+    font-size: 32px; }
+
+.slogan {
+  background: rgba(153, 151, 150, 0.26);
+  float: right;
+  margin: 100px 0;
+  padding: 15px 10px;
+  font-size: 16px;
+  color: white; }
+
+/* ikony msg  */
+.welcome .fa {
+  margin: 0 auto;
+  position: relative;
+  background: white;
+  font-size: 36px; }
+.welcome h1, .welcome p {
+  text-align: center;
+  padding: 0 20px; }
+.welcome h1 {
+  color: #6b6767;
+  text-align: center;
+  font-size: 28px; }
+.welcome h2 {
+  margin-top: 45px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #343635; }
+.welcome p {
+  color: #6b6767;
+  font-size: 20px; }
+
+.msg .fa, .msg h1 {
+  color: #0092d1; }
+
+.row {
+  margin: 0 auto; }
+  .row p {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.6); }
+
+/* galeria */
+section > .container {
+  margin: 50px auto;
+  text-align: center; }
+
+.gal {
+  max-width: 100%;
+  position: relative; }
+  .gal img {
+    display: inline-block;
+    float: left;
+    height: 200px;
+    width: 100%; }
+
+.layer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(89, 87, 87, 0.71); }
+
+.icon {
+  font-size: 20px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: black;
+  top: 40%;
+  left: 45%; }
+
+.example2 {
+  position: relative; }
+  .example2:hover .layer {
+    cursor: pointer;
+    opacity: 1; }
+
+@media screen and (max-width: 767px) {
+  .gal {
+    width: 100%;
+    max-height: 100%; } }
+.teams {
+  max-width: 100%;
+  position: relative; }
+
+.team img {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center; }
+
+.names {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  top: 44%;
+  left: 48%; }
+  .names p {
+    font-size: 20px;
+    color: black; }
+
+.circle h1 {
+  font-size: 20px;
+  color: #6b6767; }
+
+.layer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(255, 255, 255, 0.7); }
+
+.circle {
+  position: relative; }
+
+@media screen and (min-width: 767px) {
+  .circle:hover .layer, .circle:hover img {
+    opacity: 1; } }
+@media screen and (max-width: 767px) {
+  .layer {
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.4); }
+
+  .names p, .icon {
+    color: rgba(0, 0, 0, 0.7); } }
+/* Smartfon */
+.title {
+  float: right;
+  display: inline-block; }
+
+.photo img {
+  position: absolute;
+  height: 400px;
+  margin-top: 20px;
+  clip: rect(0px, 200px, 302px, 0px); }
+
+.telephone {
+  position: relative;
+  background-image: url(https://images.unsplash.com/photo-1421991312206-7754d83ca46d?auto=format&fit=crop&w=634&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+.background-title {
+  padding: 50px;
+  border-spacing: 15px;
+  text-align: left; }
+  .background-title h1 {
+    font-size: 32px;
+    color: #6b6767; }
+  .background-title p {
+    font-size: 20px;
+    color: #6b6767; }
+
+@media screen and (max-width: 767px) {
+  .photo img {
+    height: 300px;
+    clip: rect(0px, 200px, 239px, 0px);
+    right: 77%;
+    transform: rotate(90deg); } }
+/* LICZBY */
+.numbers h1 {
+  color: #6b6767;
+  font-size: 80px;
+  font-family: 'Pacifico', cursive; }
+.numbers p {
+  color: #00fff0;
+  font-weight: bold;
+  font-size: 20px; }
+
+/* STOPKA */
+footer {
+  width: 100%;
+  background-color: #545454; }
+
+.icon-btn {
+  background-color: #0092d1;
+  color: white;
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  border: 0; }
+
+.fot h1 {
+  text-align: left;
+  color: white;
+  font-size: 40px; }
+.fot p {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #D7D9D8; }
+
+.button {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #D7D9D8; }
+
+.fot h4 {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #D7D9D8;
+  font-weight: normal;
+  font-size: 16px;
+  color: #D7D9D8; }
+.fot p {
+  padding: 12px; }
+
+.social-media-line {
+  height: 2px;
+  width: 100px;
+  background-color: white;
+  display: inline-block;
+  position: absolute;
+  bottom: 20px;
+  right: -120px; }
+
+.social-media-header-wrapper {
+  position: relative;
+  display: inline-block; }
+
+.copyright {
+  text-align: center;
+  background-color: #292B2B;
+  height: 40px; }
+  .copyright p {
+    color: #6b6767;
+    padding: 5px 0; }
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+
+* {
+  box-sizing: border-box;
+  margin: auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.row {
+  &::before, &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+[class*="col-"] {
+  width: 100%;
+  padding: 12px;
+  float: left;
+}
+
+.col-offset-0 {
+  margin-left: 0;
+}
+
+.col-offset-1 {
+  margin-left: 8.33%;
+}
+
+.col-offset-2 {
+  margin-left: 16.66%;
+}
+
+.col-offset-3 {
+  margin-left: 25%;
+}
+
+.col-offset-4 {
+  margin-left: 33.33%;
+}
+
+.col-offset-5 {
+  margin-left: 41.66%;
+}
+
+.col-offset-6 {
+  margin-left: 50%;
+}
+
+.col-offset-7 {
+  margin-left: 58.33%;
+}
+
+.col-offset-8 {
+  margin-left: 66.66%;
+}
+
+.col-offset-9 {
+  margin-left: 75%;
+}
+
+.col-offset-10 {
+  margin-left: 83.33%;
+}
+
+.col-offset-11 {
+  margin-left: 91.66%;
+}
+
+@media (max-width: 767px) {
+  /* For tablets: */
+  .col-s-1 {
+    width: 8.33%;
+  }
+  .col-s-2 {
+    width: 16.66%;
+  }
+  .col-s-3 {
+    width: 25%;
+  }
+  .col-s-4 {
+    width: 33.33%;
+  }
+  .col-s-5 {
+    width: 41.66%;
+  }
+  .col-s-6 {
+    width: 50%;
+  }
+  .col-s-7 {
+    width: 58.33%;
+  }
+  .col-s-8 {
+    width: 66.66%;
+  }
+  .col-s-9 {
+    width: 75%;
+  }
+  .col-s-10 {
+    width: 83.33%;
+  }
+  .col-s-11 {
+    width: 91.66%;
+  }
+  .col-s-12 {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  /* For desktop: */
+  .col-m-1 {
+    width: 8.33%;
+  }
+  .col-m-2 {
+    width: 16.66%;
+  }
+  .col-m-3 {
+    width: 25%;
+  }
+  .col-m-4 {
+    width: 33.33%;
+  }
+  .col-m-5 {
+    width: 41.66%;
+  }
+  .col-m-6 {
+    width: 50%;
+  }
+  .col-m-7 {
+    width: 58.33%;
+  }
+  .col-m-8 {
+    width: 66.66%;
+  }
+  .col-m-9 {
+    width: 75%;
+  }
+  .col-m-10 {
+    width: 83.33%;
+  }
+  .col-m-11 {
+    width: 91.66%;
+  }
+  .col-m-12 {
+    width: 100%;
+  }
+}
+
+header {
+  background: #313234;
+  height: 50px;
+  > nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    float: right;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header {
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header > nav ul {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+}
+
+nav {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+header > nav {
+  ul > li {
+    > a {
+      color: #fff;
+      line-height: 50px;
+      padding: 0 20px;
+      display: block;
+      text-decoration: none;
+      text-transform: uppercase;
+      &:hover {
+        color: #00C1EC;
+      }
+    }
+    display: inline-block;
+  }
+  img {
+    padding: 10px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header > nav ul > li > a {
+    background: #313234;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header > nav ul > li {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header > nav img {
+    display: block;
+    text-align: center;
+  }
+}
+
+.hero {
+  background-image: url(https://images.unsplash.com/photo-1495564103921-67412af57da3?auto=format&fit=crop&w=700&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  margin-right: 10px;
+  p {
+    margin-right: 100px;
+    text-align: left;
+    padding: 0 20px;
+    font-size: 32px;
+  }
+}
+
+.slogan {
+  background: rgba(153, 151, 150, 0.26);
+  float: right;
+  margin: 100px 0;
+  padding: 15px 10px;
+  font-size: 16px;
+  color: white;
+}
+
+/* ikony msg  */
+
+.welcome {
+  .fa {
+    margin: 0 auto;
+    position: relative;
+    background: white;
+    font-size: 36px;
+  }
+  h1, p {
+    text-align: center;
+    padding: 0 20px;
+  }
+  h1 {
+    color: #6b6767;
+    text-align: center;
+    font-size: 28px;
+  }
+  h2 {
+    margin-top: 45px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #343635;
+  }
+  p {
+    color: #6b6767;
+    font-size: 20px;
+  }
+}
+
+.msg {
+  .fa, h1 {
+    color: #0092d1;
+  }
+}
+
+.row {
+  margin: 0 auto;
+  p {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.6);
+  }
+}
+
+/* galeria */
+
+section > .container {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.gal {
+  max-width: 100%;
+  position: relative;
+  img {
+    display: inline-block;
+    float: left;
+    height: 200px;
+    width: 100%;
+  }
+}
+
+.layer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(89, 87, 87, 0.71);
+}
+
+.icon {
+  font-size: 20px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: black;
+  top: 40%;
+  left: 45%;
+}
+
+.example2 {
+  position: relative;
+  &:hover .layer {
+    cursor: pointer;
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .gal {
+    width: 100%;
+    max-height: 100%;
+  }
+}
+
+.teams {
+  max-width: 100%;
+  position: relative;
+}
+
+.team img {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
+
+.names {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  top: 44%;
+  left: 48%;
+  p {
+    font-size: 20px;
+    color: black;
+  }
+}
+
+.circle h1 {
+  font-size: 20px;
+  color: #6b6767;
+}
+
+.layer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.circle {
+  position: relative;
+}
+
+@media screen and (min-width: 767px) {
+  .circle:hover {
+    .layer, img {
+      opacity: 1;
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .layer {
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  .names p, .icon {
+    color: rgba(0, 0, 0, 0.7);
+  }
+}
+
+/* Smartfon */
+
+.title {
+  float: right;
+  display: inline-block;
+}
+
+.photo img {
+  position: absolute;
+  height: 400px;
+  margin-top: 20px;
+  clip: rect(0px, 200px, 302px, 0px);
+}
+
+.telephone {
+  position: relative;
+  background-image: url(https://images.unsplash.com/photo-1421991312206-7754d83ca46d?auto=format&fit=crop&w=634&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background-title {
+  padding: 50px;
+  border-spacing: 15px;
+  text-align: left;
+  h1 {
+    font-size: 32px;
+    color: #6b6767;
+  }
+  p {
+    font-size: 20px;
+    color: #6b6767;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photo img {
+    height: 300px;
+    clip: rect(0px, 200px, 239px, 0px);
+    right: 77%;
+    transform: rotate(90deg);
+  }
+}
+
+/* LICZBY */
+
+.numbers {
+  h1 {
+    color: #6b6767;
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+  }
+  p {
+    color: #00fff0;
+    font-weight: bold;
+    font-size: 20px;
+  }
+}
+
+/* STOPKA */
+
+footer {
+  width: 100%;
+  background-color: #545454;
+}
+
+.icon-btn {
+  background-color: #0092d1;
+  color: white;
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  border: 0;
+}
+
+.fot {
+  h1 {
+    text-align: left;
+    color: white;
+    font-size: 40px;
+  }
+  p {
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #D7D9D8;
+  }
+}
+
+.button {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #D7D9D8;
+}
+
+.fot {
+  h4 {
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #D7D9D8;
+    font-weight: normal;
+    font-size: 16px;
+    color: #D7D9D8;
+  }
+  p {
+    padding: 12px;
+  }
+}
+
+.social-media-line {
+  height: 2px;
+  width: 100px;
+  background-color: white;
+  display: inline-block;
+  position: absolute;
+  bottom: 20px;
+  right: -120px;
+}
+
+.social-media-header-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.copyright {
+  text-align: center;
+  background-color: #292B2B;
+  height: 40px;
+  p {
+    color: #6b6767;
+    padding: 5px 0;
+  }
+}
